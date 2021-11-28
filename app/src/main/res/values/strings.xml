@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jobscheclude</string>
+    <string-array name="city_list">
+        <item>Mataram</item>
+        <item>Sumbawa Besar</item>
+        <item>Praya</item>
+        <item>Malang</item>
+    </string-array>
+</resources>
